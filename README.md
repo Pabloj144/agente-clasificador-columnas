@@ -18,29 +18,3 @@ Este proyecto implementa un agente de inteligencia artificial capaz de analizar 
 
 
 
-\## 📁 Estructura del Repositorio
-
-\- `agente\_clasificador.py`: Script interactivo principal del agente clasificador.
-
-\- `benchmark\_lotes.py`: Motor de pruebas para medir tiempos y riesgos de omisión por tamaño de lote.
-
-\- `evaluar\_excel.py`: Script para calcular automáticamente el porcentaje de precisión Jaccard en la matriz.
-
-\- `Matriz\_Benchmark\_Agente.xlsx`: Matriz ejecutable con los resultados del benchmark y tablas comparativas.
-
-\- `data/`: Carpeta con los datasets de prueba (`dataset\_benchmark.csv`).
-
-
-
-\## 🛠️ Instalación y Uso
-
-
-
-1\. \*\*Clonar este repositorio:\*\*
-
-&#x20;  ```bash
-
-&#x20;  git clone \[https://github.com/TU-USUARIO/agente-clasificador-columnas.git](https://github.com/TU-USUARIO/agente-clasificador-columnas.git)
-
-&#x20;  cd agente-clasificador-columnas
-
